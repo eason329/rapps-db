@@ -1,0 +1,11 @@
+[Section]
+Name = NJStar Communicator
+Version = 3.50
+License = Trial
+Description = Enables Chinese, Japanese and Korean (CJK) language input, display, print and conversions on non-CJK Windows. At least one installed CJK font is required to run properly.
+Category = 12
+URLSite = https://www.njstar.com/cms/
+URLDownload = http://web.archive.org/web/20211118031942if_/http://ftp.njstar.com/sw/njcom350sw21618.exe
+SHA1 = b7cd70c7e1df32001214439639185f02d1cecd03
+SizeBytes = 20319184
+Icon = njstar.ico
